@@ -1,0 +1,1 @@
+# In this project, I have made a weather web application in which we can see the real-time weather, temperature, time, humidity, wind speed, etc and the technologies used are HTML, CSS, Javascript, Java, OpenWeather API, Servlet, JSP.
